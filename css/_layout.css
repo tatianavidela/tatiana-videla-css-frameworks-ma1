@@ -1,0 +1,19 @@
+body {
+	font-family: "open sans", sans-serif;
+}
+
+footer {
+	display: flex;
+	justify-content: space-between;
+	height: 40px;
+	background-color: var(--secondary-colour);
+	margin-top: 20rem;
+	padding-top: 10px;
+	font-size: 0.8em;
+	color: var(--grey);
+}
+
+footer div {
+	padding-right: 10px;
+	padding-left: 10px;
+}
