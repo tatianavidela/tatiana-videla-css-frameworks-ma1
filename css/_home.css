@@ -6,13 +6,13 @@ h1 {
 	text-align: center;
 	margin-top: 50px;
 	margin-bottom: 50px;
-	font-size: 34px;
+	font-size: 40px;
 	color: var(--dark-grey);
 	font-weight: bolder;
 }
 .card-body {
 	background-color: var(--secondary-colour);
-	box-shadow: 5px 10px 22px #c7c7c7;
+	box-shadow: 2px 8px 22px var(--grey);
 	border-radius: 14px;
 }
 

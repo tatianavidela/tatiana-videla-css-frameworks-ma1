@@ -25,5 +25,6 @@
 	color: var(--primary-colour) !important;
 }
 .navbar-collapse {
+	padding-left: 30px;
 	z-index: 1;
 }
