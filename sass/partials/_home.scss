@@ -1,0 +1,27 @@
+html,
+body {
+	background-color: $background-colour;
+}
+h1 {
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	font-size: 40px;
+	color: $dark-grey;
+	font-weight: bolder;
+}
+.card-body {
+	background-color: $light;
+	box-shadow: 2px 8px 22px $grey;
+	border-radius: 14px;
+}
+
+.card-white {
+	background-color: $white;
+	border: 2px solid $primary;
+}
+
+.card-pink {
+	background-color: $primary;
+	border: 2px solid $white;
+}

@@ -9,11 +9,11 @@ footer {
 	align-items: center;
 	justify-content: space-between;
 	height: 80px;
-	background-color: var(--secondary-colour);
+	background-color: $light;
 	margin-top: 20rem;
 	padding: 30px;
 	font-size: 1em;
-	color: var(--grey);
+	color: $dark-grey;
 }
 
 .wrapper {
